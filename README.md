@@ -1,3 +1,9 @@
 Bryonna Bridges and my email address is  babridges@my.waketech.edu
 This will be used as my school account where i will filling my assignments. 
 The  repository I created will be where i can find all my assignments and projects. 
+
+#About Me
+Walking and exploring the outdoors are two of my favorite hobbies. Exploring nature is a creative method to open your creative mind, and I enjoy how walking is a terrific form of workout. Learning more about technology and the various computer programs would be of academic interest to me. Trying to improve myself by eating better and exercising more is another one of my particular.
+## My Interests
+- [National Geographic] (https://www.nationalgeographic.com) - Because I enjoy learning about the many kinds of animals present throughout the world, as well as ones I was unaware of, I thought this website was fascinating. 
+- [dafgiving360] (https://www.dafgiving360.org) - This website caught my attention since I enjoy giving back to the community and am constantly looking for ways to support kids and their families. In addition to supporting food banks, I truly appreciate seeing people happy and having my heart open. 
